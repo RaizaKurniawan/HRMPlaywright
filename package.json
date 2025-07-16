@@ -1,0 +1,24 @@
+{
+  "name": "hrmplaywright",
+  "version": "1.0.0",
+  "description": "playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaizaKurniawan/HRMPlaywright.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "raizakurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaizaKurniawan/HRMPlaywright/issues"
+  },
+  "homepage": "https://github.com/RaizaKurniawan/HRMPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
